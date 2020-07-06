@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "965562253080",
+    "firebase_url": "https://quisakhir.firebaseio.com",
+    "project_id": "quisakhir",
+    "storage_bucket": "quisakhir.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965562253080:android:a6af4c2531298c6f4a286d",
+        "android_client_info": {
+          "package_name": "com.hayankhrisna.quizakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965562253080-rp0d1elalfujhccir4togbgangru6607.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hayankhrisna.quizakhir",
+            "certificate_hash": "f85a0089ddf0770e058490bd79b0f5e240cf8f15"
+          }
+        },
+        {
+          "client_id": "965562253080-d7ddds02ijfvrh88pek4dvm963mh2lcr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB800bjSoQr7Pi3GWm4jGa2ftpEgeIx2Pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965562253080-d7ddds02ijfvrh88pek4dvm963mh2lcr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
